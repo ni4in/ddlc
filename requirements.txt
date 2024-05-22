@@ -1,0 +1,4 @@
+python-socketio
+python-socketio[client]
+eventlet
+opencv-python
